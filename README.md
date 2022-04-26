@@ -6,7 +6,9 @@ Each team will be assigned a text file, which contains an incomplete piece of AS
 The task is to collaboratively complete the ASCII art as fast as possible.
 The team to first complete the drawing wins.
 
-The only rule is that each commit can only contain 1 single character change (except for merge commits)
+Rules are:
+- each commit can only contain 1 single character change (except for merge commits)
+- You need to add 11 characters to complete the image
 
 Your team will gain  extra points for:
 - each sequential commit that did not result in a merge conflict
