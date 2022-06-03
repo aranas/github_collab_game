@@ -11,6 +11,6 @@ Rules are:
 - You need to add 11 characters to complete the image
 
 Your team will gain  extra points for:
-- each sequential commit that did not result in a merge conflict
+- each sequential commit that did not result in a merge
 - each commit with a descriptive commit message
 - creativity!
